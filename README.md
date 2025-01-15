@@ -7,7 +7,7 @@ This project is a Django-based API for managing menu items and table bookings fo
 
 ## Installation
 1. Clone the repository:
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/JEANAWAH/Little-Lemon-Web-Application.git)
 2. Activate the virtual environment:
    pipenv shell
 3. Install dependencies:
